@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Local database
+documents.db
+
+# Generated email drafts
+output_emails/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
