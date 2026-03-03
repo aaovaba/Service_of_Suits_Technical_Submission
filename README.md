@@ -101,7 +101,7 @@ Non-legal documents do not trigger email generation.
 
 ---
 
-##⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone Repository
 
