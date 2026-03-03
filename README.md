@@ -106,7 +106,7 @@ Non-legal documents do not trigger email generation.
 ### 1. Clone Repository
 
 
-git clone https://github.com/aaovaba/service-of-suits-ai.git
+git clone [https://github.com/aaovaba/service-of-suits-ai.git](https://github.com/aaovaba/Service_of_Suits_Technical_Submission)
 
 cd service-of-suits-ai
 
