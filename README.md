@@ -42,7 +42,7 @@ Structured JSON Logging
 
 ### Design Principles
 
-- Hybrid AI + deterministic governance
+- AI + deterministic governance
 - Schema-enforced JSON output
 - Guardrails to reduce hallucination risk
 - Document-type-aware confidence logic
