@@ -32,7 +32,6 @@ def enforce_classification_guardrails(text, llm_type):
 
 def detect_policy_quality(text):
     """
-    Enterprise-grade policy inconsistency detection.
 
     Flags inconsistency only when:
     - Multiple distinct normalized policy numbers exist
