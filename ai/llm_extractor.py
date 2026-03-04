@@ -65,7 +65,7 @@ Rules:
 
     def _safe_parse(self, raw_output: str):
         """
-        Bulletproof JSON parsing:
+        Strict JSON parsing:
         - Strip markdown fences
         - Parse safely
         - Enforce schema
